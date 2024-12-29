@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1dcd3a5f.css",
+    "main.js": "/static/js/main.e7fc4eaa.js",
+    "static/js/488.044d95b8.chunk.js": "/static/js/488.044d95b8.chunk.js",
+    "static/media/378152744_ebb5daed-d670-4575-a939-cb638c65ca11.png": "/static/media/378152744_ebb5daed-d670-4575-a939-cb638c65ca11.479c9928a1a0539ce8d5.png",
+    "static/media/golden paper.png": "/static/media/golden paper.817a50fbfd3c1951c1d2.png",
+    "static/media/1.png": "/static/media/1.feead474b43cb124164a.png",
+    "static/media/yt.png": "/static/media/yt.839b674d069cea2b362b.png",
+    "static/media/2.png": "/static/media/2.da2a527544b55cc91bfa.png",
+    "static/media/LOGO-Kuttyaistory.png": "/static/media/LOGO-Kuttyaistory.f415bc4ab07fb611ae57.png",
+    "index.html": "/index.html",
+    "main.1dcd3a5f.css.map": "/static/css/main.1dcd3a5f.css.map",
+    "main.e7fc4eaa.js.map": "/static/js/main.e7fc4eaa.js.map",
+    "488.044d95b8.chunk.js.map": "/static/js/488.044d95b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dcd3a5f.css",
+    "static/js/main.e7fc4eaa.js"
+  ]
+}
